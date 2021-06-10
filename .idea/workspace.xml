@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c90668c9-8f93-46b4-8885-1e91e5410bd5" name="Default Changelist" comment="" />
+    <list default="true" id="c90668c9-8f93-46b4-8885-1e91e5410bd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/META-INF/patterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/adapter/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/adapter/DebitCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/adapter/DebitCardToMoneyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/adapter/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/adapter/OnlineShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/AddButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/DeleteButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/List$Hide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/SaveButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/TextBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/patterns/mediator/Title.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +42,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1tW9DhE3L3gTlybXeuJ6AfV77Ov" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="adapter.App" />
       <module name="patterns" />
@@ -52,11 +82,12 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c90668c9-8f93-46b4-8885-1e91e5410bd5" name="Default Changelist" comment="" />
@@ -67,34 +98,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1622906475183">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1622906475183" />
-    <state width="1921" height="298" key="GridCell.Tab.0.bottom" timestamp="1622908333137">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1622908333137" />
-    <state width="1921" height="298" key="GridCell.Tab.0.center" timestamp="1622908333136">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1622908333136" />
-    <state width="1921" height="298" key="GridCell.Tab.0.left" timestamp="1622908333136">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1622908333136" />
-    <state width="1921" height="298" key="GridCell.Tab.0.right" timestamp="1622908333136">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1622908333136" />
-    <state x="702" y="128" key="refactoring.ChangeSignatureDialog" timestamp="1622902430173">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="702" y="128" key="refactoring.ChangeSignatureDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1622902430173" />
-    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1622905330433">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1622905330433" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
