@@ -3,15 +3,6 @@ package concurrency.active_object;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-
-/**
- * The active object design pattern decouples method execution from method invocation for objects that each reside in their thread of control.
- * The goal is to introduce concurrency, by using asynchronous method invocation and a scheduler for handling requests.
- *
- * The class that implements the active object pattern will contain a self-synchronization mechanism without using 'synchronized' methods.
- */
-
-
 public abstract class ActiveCreature {
     private final BlockingQueue<Runnable> requests;
 
