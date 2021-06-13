@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90668c9-8f93-46b4-8885-1e91e5410bd5" name="Default Changelist" comment="adding gitigonre">
+    <list default="true" id="c90668c9-8f93-46b4-8885-1e91e5410bd5" name="Default Changelist" comment="abstract document">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/patterns/META-INF/patterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/active_object/ActiveCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/active_object/ActiveCreature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/active_object/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/active_object/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrency/tmp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +47,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="creational.abstract_factory" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Demo (2)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="adapter.App" />
       <module name="patterns" />
@@ -68,6 +70,13 @@
     </configuration>
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structural.abstractDocument.Demo" />
+      <module name="patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.abstract_factory.Demo" />
       <module name="patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.App" />
@@ -127,15 +137,55 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2" />
+    <MESSAGE value="abstract document" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract document" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1623606051203">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="765" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1623606051203" />
+    <state x="808" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1623605470549">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="808" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1623605470549" />
+    <state x="761" y="332" key="FileChooserDialogImpl" timestamp="1623606487823">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="761" y="332" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1623606487823" />
+    <state width="1921" height="298" key="GridCell.Tab.0.bottom" timestamp="1623606594821">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1921" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1623606594821" />
+    <state width="1921" height="298" key="GridCell.Tab.0.center" timestamp="1623606594820">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1921" height="298" key="GridCell.Tab.0.center/0.0.1920.1019@0.0.1920.1019" timestamp="1623606594820" />
+    <state width="1921" height="298" key="GridCell.Tab.0.left" timestamp="1623606594819">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1921" height="298" key="GridCell.Tab.0.left/0.0.1920.1019@0.0.1920.1019" timestamp="1623606594819" />
+    <state width="1921" height="298" key="GridCell.Tab.0.right" timestamp="1623606594820">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1921" height="298" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1623606594820" />
+    <state x="461" y="152" key="SettingsEditor" timestamp="1623606796957">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="461" y="152" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1623606796957" />
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1623605801173">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1623605801173" />
   </component>
 </project>

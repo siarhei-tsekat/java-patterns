@@ -3,7 +3,6 @@ package structural.abstractDocument;
 import java.util.List;
 import java.util.Map;
 
-
 /**
  * Intent
  * Use dynamic properties and achieve flexibility of untyped languages while keeping type-safety.
