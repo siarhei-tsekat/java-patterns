@@ -1,6 +1,4 @@
-package adapter;
-
-import adapter.Money;
+package structural.adapter;
 
 public class DebitCard {
     private Money money;

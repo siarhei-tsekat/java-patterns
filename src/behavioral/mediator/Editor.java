@@ -1,4 +1,4 @@
-package mediator;
+package behavioral.mediator;
 
 import javax.swing.*;
 import javax.swing.border.LineBorder;
@@ -18,7 +18,7 @@ public class Editor implements Mediator {
     private JLabel label = new JLabel("Add or select existing note to proceed...");
 
     /**
-     * Here the registration of components by the mediator.
+     * Here the registration of components by the behavioral.mediator.
      */
     @Override
     public void registerComponent(Component component) {

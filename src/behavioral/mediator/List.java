@@ -1,4 +1,4 @@
-package mediator;
+package behavioral.mediator;
 
 import javax.swing.*;
 

@@ -1,4 +1,4 @@
-package mediator;
+package behavioral.mediator;
 
 public interface Component {
     void setMediator(Mediator mediator);
